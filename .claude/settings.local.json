@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git config:*)",
+      "Bash(ls:*)",
+      "Bash(gh repo create:*)",
+      "Bash(git init:*)",
+      "Bash(git remote add:*)",
+      "Bash(git branch:*)",
+      "Bash(git pull:*)",
+      "Bash(npx create-next-app:*)",
+      "Bash(mkdir:*)",
+      "Bash(npm install)",
+      "Bash(cp:*)",
+      "Bash(find:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": []
+  }
+}
